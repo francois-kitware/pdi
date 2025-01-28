@@ -7,9 +7,6 @@
 [submodule "vendor/json"]
 	path = vendor/json
 	url = https://github.com/nlohmann/json.git
-[submodule "plugins/catalyst"]
-	path = plugins/catalyst
-	url = https://gitlab.kitware.com/keu-public/pdi-catalyst-plugin
 [submodule "vendor/catalyst-2.0.0"]
 	path = vendor/catalyst-2.0.0
 	url = https://gitlab.kitware.com/paraview/catalyst
